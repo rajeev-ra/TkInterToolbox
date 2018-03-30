@@ -1,0 +1,17 @@
+html, body, canvas, svg{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border: 0;
+}
+
+
+#cssmenu{
+    opacity: 0.3;
+}
+
+#cssmenu:hover{
+    opacity: 1;
+}
